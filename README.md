@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on UI/UX
+- 🔭 I’m currently working on UI/UX...
 - 🌱 I’m currently learning UI/UX
 - 👯 I’m looking to collaborate on Figma
 - 🤔 I’m looking for help with 
